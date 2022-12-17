@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="title">Заголовок</string>
+    <string name="message">Заметка</string>
+</resources>
